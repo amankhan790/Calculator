@@ -36,7 +36,8 @@ input {
     width: 53px;
     height: 58px;
     margin: 4px;
-    color: #14281d;
+    color: #0e1b14;
+    font-weight: 500;
 }
 .operrator {
     color: #102542;
